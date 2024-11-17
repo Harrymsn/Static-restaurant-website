@@ -2,7 +2,7 @@ let pag = Math.random();
 console.log(pag);
 
 
-document.getElementById("acca1").onclick = () => {
+document.getElementById("spex").onclick = () => {
   
 if(pag > 0 && pag < 0.33){location.replace("Specials.html");}
 

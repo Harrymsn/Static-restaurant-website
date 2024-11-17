@@ -410,7 +410,14 @@ h3.menu-item-title {
 }
 
 #dinner{
+  
   margin-left: 20px;
   font-size: 30px;
 
+}
+
+#spex{
+ background-color:#557c3e;
+  text-align: center;
+  padding: 30px;
 }
